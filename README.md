@@ -28,9 +28,13 @@ The following steps were performed for the analysis:
     * Manually refined clusters as needed.
     * Saved clustering outputs (spike times, average waveforms).
 
-4.  **Post-Cluster Analysis with Python:**
-    * Basic analysis: raster plots, firing rate histograms, cross-correlograms.
-    * Advanced analysis: neural responses to specific stimuli (if applicable).
+4.  **Post-Cluster Analysis with Python:**
+    * **Spike counts per Cluster:** Calculated and visualized spike counts for each cluster.
+    * **Mapping Clustered Data:** Mapped clustered data with preprocessed spike waveforms to visualize spike times and mean waveforms for each cluster.
+    * **Mean Waveforms per Time:** Plotted mean waveforms of each cluster over time.
+    * **Spike Times per Time (Raster Plot):** Created raster plots to visualize spike times for each cluster.
+    * **Artifact Scores and Distribution:** Calculated and visualized artifact scores and distribution per cluster.
+    * **Firing Rate:** Calculated firing rates binned over 50ms intervals.
 
 5.  **RNN/ANN Model:**
     * **Input:** Firing rates binned over a time window (50 ms).
