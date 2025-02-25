@@ -1,2 +1,0 @@
-created /content/drive/MyDrive/UCLA_data_output/CSC4/sort_pos_simple
-Plotted classes in /content/drive/MyDrive/UCLA_data_output/CSC4/sort_pos_simple
