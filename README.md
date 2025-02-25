@@ -34,7 +34,7 @@ The following steps were performed for the analysis:
     * **Mean Waveforms per Time:** Plotted mean waveforms of each cluster over time.
     * **Spike Times per Time (Raster Plot):** Created raster plots to visualize spike times for each cluster.
     * **Artifact Scores and Distribution:** Calculated and visualized artifact scores and distribution per cluster.
-    * **Firing Rate:** Calculated firing rates binned over 50ms intervals (due to computational constraints).
+    * **Firing Rate:** Calculated firing rates binned over 50ms intervals.
 
 5.  **RNN/ANN Model:**
     * **Input:** Firing rates binned over a time window (50 ms).
