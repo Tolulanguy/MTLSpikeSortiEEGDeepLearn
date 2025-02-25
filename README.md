@@ -34,12 +34,12 @@ The following steps were performed for the analysis:
     * Advanced analysis: neural responses to specific stimuli (if applicable).
 
 5.  **RNN/ANN Model:**
-    * **Input:** Firing rates binned over a time window (e.g., 50 ms).
+    * **Input:** Firing rates binned over a time window (50 ms).
     * **Output:** Behavioral labels or stimulus categories.
-    * **Frameworks:** TensorFlow or PyTorch.
+    * **Frameworks:** TensorFlow, Scikit-learn.
     * **Example task:** Classification of stimulus conditions based on neural activity.
 
 6.  **SNN Model:**
-    * **Frameworks:** Brian2 or NEST.
+    * **Frameworks:** Brian2.
     * **Focus:** Simulation of STDP or recurrent activity for memory encoding/recall.
     * **Approach:** Started with a basic network (two neurons) and gradually scaled up.
