@@ -1,6 +1,6 @@
 # Integrating iEEG Analysis with Neural Network Models to Decode Neural Activity and Simulate Memory Processes 
 
-This repository contains the code and analysis for processing and modeling single-cell recordings from the human medial temporal lobe (MTL) using intracranial electroencephalography (iEEG). This is a leisure exploratory analysis that I performed on a 30-minute multi-unit recording in the **Medial Temporal Lobe** of an epileptic patient, obtained from Itzhak Fried's lab at UCLA. The dataset is authored by Rodrigo Quian Quiroga and was posted on December 9, 2019 on the Leicester University dataset webpage.
+This repository contains the code and analysis for processing and modeling single-cell recordings from the human medial temporal lobe (MTL) using intracranial electroencephalography (iEEG). This is an exploratory analysis performed on a 30-minute multi-unit recording in the **Medial Temporal Lobe** of an epileptic patient, obtained from Itzhak Fried's lab at UCLA. The dataset is authored by Rodrigo Quian Quiroga and was posted on December 9, 2019 on the Leicester University dataset webpage.
 
 The workflow includes spike sorting, post-cluster analysis, and the integration of Recurrent Neural Networks (RNNs), Artificial Neural Networks (ANNs), and Spiking Neural Networks (SNNs).
 
